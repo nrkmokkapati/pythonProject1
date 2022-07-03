@@ -15,5 +15,6 @@ print(type(message))
 
 
 print(message.upper())
+print(message.upper())
 
 
