@@ -10,4 +10,4 @@ while True:
         print('ravi') #this line is skipped if string is of sufficient lenght
     print('Input is of sufficient length')
     print('Success- you have entered a string of sufficient length')
-print('Program is done')
+print('Programm is done')
