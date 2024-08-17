@@ -20,6 +20,11 @@
 # 6. Keras
 # 7. Tensorflow
 
+# # Some of the commonly used Data ScienceTools used by Data Scientists include:
+#     1. Jupyter Notebooks
+#     2. Anaconda
+#     3. VS Code
+
 # Below are a few examples of evaluating arithmetic expressions in Python
 
 # In[1]:
